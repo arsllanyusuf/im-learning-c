@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	
+
+	 int s1,s2,ortalama;
+	  
+     printf ("notunuzbir=");
+     scanf ("%d", &s1);
+     
+     printf ("notunuziki=");
+     scanf ("%d", &s2);
+     
+    ortalama=(s1+s2)/2;
+    
+    printf("ortalamaniz: %d",ortalama);
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	return 0;
+}
